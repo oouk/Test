@@ -16,7 +16,9 @@ public class Test {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hey. How you doin'?");
+        System.out.println("Name: Odom Ouk\n" +
+                            "NetID: XN8972\n" +
+                            "Username: oouk");
     }
     
 }
